@@ -137,4 +137,5 @@ cython_debug/
 
 # VS Code
 .vscode/
-/unit_[0-10]
+# ignore unit folders 1 to 10
+unit_[0-10]
