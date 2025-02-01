@@ -1,3 +1,4 @@
 big-O
 numpy
 selenium
+beautifulsoup4
